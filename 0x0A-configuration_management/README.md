@@ -1,1 +1,1 @@
-readme file for configaration manangent
+My readme file for congfiguration
